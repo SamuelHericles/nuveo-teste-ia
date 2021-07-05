@@ -1,5 +1,3 @@
-02-SMSSpamDetection/src/.ipynb_checkpoints
-02-SMSSpamDetection/src/classes/__pycache__
-02-SMSSpamDetection/test/classes/__pycache__
-02-SMSSpamDetection/src/.pytest_cache/*
-02-SMSSpamDetection/.pytest_cache/*
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+*/.pytest_cache/*
