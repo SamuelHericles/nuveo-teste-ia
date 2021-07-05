@@ -1,0 +1,1 @@
+git clone https://SamuelHericelsBit@bitbucket.org/SamuelHericlesBit/model-nuveo-challenge.git
